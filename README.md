@@ -10,7 +10,7 @@ Cocos2d-x Features used in this project
 * Billboard
 * Camera
 * Light
-* New audio engine
+* New audio engine1
 
 The code of this project and Cocos2d-x are all licensed under MIT
 
@@ -20,7 +20,7 @@ You may not use any art including 2d and 3d from this project for commercial pur
 
 ##Git user attention
 
-1.Clone the repo from Github
+1.Clone the repo from Github 
 
 ```
 $ git clone https://github.com/chukong/FantasyWarrior3D.git
